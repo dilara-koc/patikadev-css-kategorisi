@@ -14,6 +14,7 @@ body {
     height: 40px;
     width: 100%; 
     min-width: 980px;
+    right: 7px;
   }
 
   .headerli {
@@ -39,7 +40,6 @@ body {
     border-radius: 50%;
     margin-top: -10px;
     overflow: clip;
-    padding-right: 7px;
   }
 
   .pic:hover {
